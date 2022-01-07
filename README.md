@@ -1,6 +1,6 @@
-# MENDES-CHARRINHO Léopold && QUETU Victor, 3A SIA
+# TP : Implémentation d'un CNN - LeNet-5 sur GPU
 
-TP : Implémentation d'un CNN - LeNet-5 sur GPU
+## MENDES-CHARRINHO Léopold x QUETU Victor, 3A SIA
 
 Les objectif de ces 4 séances de TP de HSP sont :
 
