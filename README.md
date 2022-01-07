@@ -11,7 +11,5 @@ Les objectif de ces 4 séances de TP de HSP sont :
     -Exporter des données depuis un notebook python et les réimporter dans un projet cuda
     -Faire un suivi de votre projet et du versionning à l'outil git
    
-L'objectif à terme de ces 4 séances est d'implémenter l'inférence dun CNN très claissque : LeNet-5.
-
-L'architecture du LeNet-5 se compose de deux couches convolutives et de MeanPooling, suivis d'une couche convolutive d'aplatissement, puis de deux couches entièrement connectées et enfin d'un classificateur softmax.
+L'objectif à terme de ces 4 séances est d'implémenter l'inférence dun CNN très claissque : LeNet-5. L'architecture du LeNet-5 se compose de deux couches convolutives et de MeanPooling, suivis d'une couche convolutive d'aplatissement, puis de deux couches entièrement connectées et enfin d'un classificateur softmax.
 
