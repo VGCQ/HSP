@@ -1,4 +1,4 @@
-#h1 MENDES-CHARRINHO Léopold && QUETU Victor, 3A SIA
+#H1 MENDES-CHARRINHO Léopold && QUETU Victor, 3A SIA
 
 TP : Implémentation d'un CNN - LeNet-5 sur GPU
 
