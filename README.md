@@ -13,3 +13,4 @@ Les objectif de ces 4 séances de TP de HSP sont :
    
 L'objectif à terme de ces 4 séances est d'implémenter l'inférence dun CNN très claissque : LeNet-5. L'architecture du LeNet-5 se compose de deux couches convolutives et de MeanPooling, suivis d'une couche convolutive d'aplatissement, puis de deux couches entièrement connectées et enfin d'un classificateur softmax.
 
+La première séance est consacrée à la prise en main de Cuda. On réalise tout d'abord des fonctions d'initialisation, d'affichage, d'additions ou de multiplication de matrices d'abord sur CPU, puis en utilisant le GPU.
