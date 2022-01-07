@@ -17,3 +17,5 @@ La première séance (main_TP1.cu) est consacrée à la prise en main de Cuda. O
 
 La seconde séance (main_TP2.cu) est consacrée à la création des premières couches du réseau de neurone LeNet-5 : Convolution 2D et subsampling.
 
+La troisième et quatrième séance est consacrée à l'entrainement de votre réseau de neurone et comprendre les dernières couches associés à mettre en place dans notre programme CUDA.
+
