@@ -1,7 +1,7 @@
 /*
 
 MENDES-CHARRINHO Léopold && QUETU Victor
-3A SIA
+3A SIA 
 TP Hardware for Signal Proccessing
 Séance 1 : Addition/Multiplication sur CPU/GPU
 
