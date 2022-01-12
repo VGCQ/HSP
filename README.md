@@ -86,7 +86,7 @@ __device__ double cudaActivationTanh(double val)
 
 ## Partie 3 - Un peu de Python
 
-Un notebook *LeNet5bis.ipynb* est mis à disposition et à étudier.
+Un notebook *LeNet5bis.ipynb* est mis à disposition et à étudier. Celui-ci réalise l'entrainement de notre réseau de neuronne, on l'utilise pour récupérer les poids et biais de chaque couche afin d'initialiser les différents kernels.
 
 ### Fonction d'activation manquante - Softmax
 ```
