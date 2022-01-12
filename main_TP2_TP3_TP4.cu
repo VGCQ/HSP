@@ -360,14 +360,14 @@ int main(){
 
     MatrixInit0(C1_data,L,L,Q);
     MatrixInit0(C1_kernel,K,K,Q);
-    read_file((char *)"k1.h",C1_kernel);
+    //Ajout d'une couche de poids à C1_kernel;
 
     MatrixInit0(S2_data,M,M,Q);
 
     MatrixInit0(C3_dataTemp,10,10,96);
     MatrixInit0(C3_data,10,10,16);
     MatrixInit0(C3_kernel,K,K,16*6);
-    read_file((char *)"k2.h",C3_kernel);
+    //Ajout d'une couche de poids à C3_kernel;
 
     MatrixInit0(S4_data,5,5,16);
 
@@ -375,11 +375,11 @@ int main(){
     MatrixInit0(F6_data,84,1,1);
     MatrixInit0(OUTPUT,10,1,1);
     MatrixInit0(W1,400,120,1);
-    read_file((char *)"w1.h",W1);
+    //Ajout d'une couche de poids à W1;
     MatrixInit0(W2,120,84,1);
-    read_file((char *)"w2.h",W2);
+    //Ajout d'une couche de poids à W2;
     MatrixInit0(W3,84,10,1);
-    read_file((char *)"w3.h",W3);
+    //Ajout d'une couche de poids à W3;
 
     //printf("IMAGE\n");
     //MatrixPrint(raw_data,N,P,1);
