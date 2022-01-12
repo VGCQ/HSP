@@ -97,3 +97,4 @@ void ActivationSoftmax(double* input, size_t size)
 <a href="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png" alt="" /></a>
 
  Un script *printMNIST.cu* est donné, permettant l'ouverture de ce fichier et l'affichage d'une image. 
+⚠️ **Spoiler** ⚠️ A ce stade nous n'avons pas réussi à exporter les poids de chaque couche à partir des poids exportés du notebook Python afin de les ajouter à notre programme en C. Toutefois, nous avons toutefois compris la démarche et avons rédigé les lignes "comme si" nous avions ces couches exportées.
